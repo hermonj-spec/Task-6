@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("\n-------Overloading-------");
         GL.displayDetails();
-        BL.displayDetails("Lightweight, 8GB RAM, Optimized for business task");
+        BL.displayDetails("Lightweight, 16GB RAM, Optimized for business task");
 
         System.out.println("\n-------Polymorphism-------");
         LaptopUtils.useLaptop(GL);
